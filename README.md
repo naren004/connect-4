@@ -1,1 +1,1 @@
-DEMO : connect-4-iota.vercel.app
+connect-4-iota.vercel.app
